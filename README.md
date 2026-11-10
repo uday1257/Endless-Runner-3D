@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jungle Endless Runner 3D (Unity 6)
 
 ## Open it
@@ -37,3 +38,6 @@ Biomes, Decor, Gfx, Fx, Inp, Coin, Obstacle.
 ## Folder layout (Assets)
 Animations, Audio, Editor (auto-setup script), Materials, Models, Prefabs, Resources, Scenes (JungleLevel), Scripts, Textures, UI.
 Empty folders are ready for your own imported assets. The game itself generates its models, textures and sounds in code.
+=======
+# Endless-Runner-3D
+>>>>>>> 9da8f44bed80bf120f497936eed564c5275f0fc2
