@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Jungle Endless Runner 3D (Unity 6)
 
 ## Open it
@@ -40,4 +39,3 @@ Animations, Audio, Editor (auto-setup script), Materials, Models, Prefabs, Resou
 Empty folders are ready for your own imported assets. The game itself generates its models, textures and sounds in code.
 =======
 # Endless-Runner-3D
->>>>>>> 9da8f44bed80bf120f497936eed564c5275f0fc2
